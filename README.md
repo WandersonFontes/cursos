@@ -27,6 +27,11 @@ Lista dos melhores cursos gratuitos online de Python
 * Canal [Sendex] - "Python Programming tutorials, going further than just the basics."
   * <https://www.youtube.com/user/sentdex>
   
+* Canal [Curso em Vídeo] - "Curso Python - Mundo 1"
+  * <https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6>
+
+* Canal [Curso em Vídeo] - "Curso Python - Mundo 2"
+  * <https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye>
 
 ### Sites
 
